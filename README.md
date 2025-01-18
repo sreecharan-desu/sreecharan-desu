@@ -1,4 +1,4 @@
-# A boy called SreeCharan
+# Hey, I'm Sreecharan! 👋
 
 ## About Me
 
