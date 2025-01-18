@@ -1,50 +1,25 @@
-# Hi there, I'm Sreecharan Desu 👋
+# A boy called SreeCharan
 
 ## About Me
 
-- 🎓 **CS Grad'27**: Currently an undergraduate at Rajiv Gandhi University of Knowledge & Technologies.
-- 💻 **Coding Enthusiast**: Passionate about exploring new technologies and building innovative solutions.
-- 🌐 **Online Presence**:
-  - **Personal Website**: [sr3x0r.vercel.app](https://sr3x0r.vercel.app/)
-  - **X (formerly Twitter)**: [@sreecharandesu](https://x.com/sreecharandesu)
-  - **LinkedIn**: [in/sreecharan-desu](https://www.linkedin.com/in/sreecharan-desu/)
-  - **YouTube**: [@mrsreecharan](https://www.youtube.com/@mrsreecharan)
+- 🎓 **CS Grad'27** at Rajiv Gandhi University of Knowledge & Technologies.
+- 💻 Love coding and learning new tech!
+- 🌐 **Find me here**:
+  - [Website](https://sr3x0r.vercel.app/)
+  - [Twitter](https://x.com/sreecharandesu)
+  - [LinkedIn](https://www.linkedin.com/in/sreecharan-desu/)
+  - [YouTube](https://www.youtube.com/@mrsreecharan)
 
 ## GitHub Stats
 
-![Sreecharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreecharan-desu&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreecharan-desu&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreecharan-desu&show_icons=true&theme=radical)
 
 ## Projects
 
-Here are some of my notable projects:
-
-### TaskMaster
-
-A full-stack to-do application designed to help users manage tasks efficiently.
-- **GitHub Repository**: [TaskMaster](https://github.com/sreecharan-desu/TaskMaster)
-- **Live Demo**: [task-master-black.vercel.app](https://task-master-black.vercel.app/)
-
-### StudySpace
-
-A platform facilitating offline learning and collaboration by allowing students and educators to create and join study sessions in physical locations.
-- **GitHub Repository**: [StudySpace](https://github.com/sreecharan-desu/Studyspace)
-- **Live Demo**: [studyspace-exp.vercel.app](https://studyspace-exp.vercel.app/)
-
-### Gradelite
-
-A grade-generating website tailored for students of Rajiv Gandhi University of Knowledge & Technologies.
-- **GitHub Repository**: [Gradelite](https://github.com/sreecharan-desu/Gradelite)
-- **Live Demo**: [sreecharan-desu.github.io/Gradelite/](https://sreecharan-desu.github.io/Gradelite/)
-
-## Achievements
-
-- **YOLO**: An achievement reflecting my commitment to learning and growth.
+- [TaskMaster](https://github.com/sreecharan-desu/TaskMaster): A to-do app to keep you organized.
+- [StudySpace](https://github.com/sreecharan-desu/Studyspace): A platform for offline study sessions.
+- [Gradelite](https://github.com/sreecharan-desu/Gradelite): A grade tracker for RGUKT students.
 
 ## Let's Connect
 
-Feel free to reach out to me through any of the platforms mentioned above. I'm always open to collaborating on interesting projects and discussing new ideas.
-
+Feel free to reach out or collaborate on something fun! 😊
