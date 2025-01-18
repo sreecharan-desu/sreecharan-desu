@@ -1,25 +1,13 @@
 # Hey, I'm Sreecharan! 👋
 
-## About Me
+Just a guy interested in **Web3 & Blockchain** and loves to code casually every day.
 
-- 🎓 **CS Grad'27** at Rajiv Gandhi University of Knowledge & Technologies.
-- 💻 Love coding and learning new tech!
-- 🌐 **Find me here**:
-  - [Website](https://sr3x0r.vercel.app/)
-  - [Twitter](https://x.com/sreecharandesu)
-  - [LinkedIn](https://www.linkedin.com/in/sreecharan-desu/)
-  - [YouTube](https://www.youtube.com/@mrsreecharan)
+I am currently working on:
+- 📖 **MERN Stack**: Building full-stack applications with MongoDB, Express, React, and Node.js.
+- 🌐 **Next.js**: Exploring server-side rendering and static site generation for faster web apps.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreecharan-desu&show_icons=true&theme=radical)
-
-## Projects
-
-- [TaskMaster](https://github.com/sreecharan-desu/TaskMaster): A to-do app to keep you organized.
-- [StudySpace](https://github.com/sreecharan-desu/Studyspace): A platform for offline study sessions.
-- [Gradelite](https://github.com/sreecharan-desu/Gradelite): A grade tracker for RGUKT students.
+🌍 [My Website - Click here](https://sr3x0r.vercel.app/)
 
 ## Let's Connect
 
-Feel free to reach out or collaborate on something fun! 😊
+Feel free to reach out or collaborate on fun projects! 🚀
