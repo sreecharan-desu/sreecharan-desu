@@ -1,4 +1,4 @@
-# Hi there, I'm Sreecharan Desu 👋
+# A boy called SreeCharan
 
 ## About Me
 
