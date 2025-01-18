@@ -1,4 +1,4 @@
-Just a guy interested in **Web3 & Blockchain** and loves to code casually every day.
+**Just a guy interested in [Web3 & Blockchain](https://github.com/sreecharan-desu) and loves to code casually every day.**
 
 Currently working on:
 - **MERN Stack**: Building full-stack applications with MongoDB, Express, React, and Node.js.
