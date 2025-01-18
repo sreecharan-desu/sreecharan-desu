@@ -1,4 +1,4 @@
-# A boy called SreeCharan
+# Hi there, I'm Sreecharan Desu 👋
 
 ## About Me
 
@@ -9,6 +9,14 @@
   - **X (formerly Twitter)**: [@sreecharandesu](https://x.com/sreecharandesu)
   - **LinkedIn**: [in/sreecharan-desu](https://www.linkedin.com/in/sreecharan-desu/)
   - **YouTube**: [@mrsreecharan](https://www.youtube.com/@mrsreecharan)
+
+## GitHub Stats
+
+![Sreecharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreecharan-desu&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreecharan-desu&layout=compact&theme=radical)
 
 ## Projects
 
