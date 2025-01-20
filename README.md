@@ -3,4 +3,4 @@
 currently working on:
 - **t3Stack**
 
-webiste - [Click here](https://sr3x0r.vercel.app/)
+webiste - https://sr3x0r.vercel.app
