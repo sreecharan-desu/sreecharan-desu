@@ -1,4 +1,4 @@
-**just a guy interested in **web3 & blockchain** and loves to code casually every day.**
+**a guy interested in new tech, loves to code casually every day.**
 
 currently working on:
 - **t3Stack**
