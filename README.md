@@ -1,4 +1,4 @@
-**a guy interested in learning new tech, loves to code casually every day.**
+**just a guy interested in learning new tech, loves to code casually every day.**
 
 currently working on:
 - **t3Stack**
