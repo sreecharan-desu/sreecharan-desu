@@ -1,4 +1,4 @@
-**just a guy interested in learning new tech, loves to code casually every day.**
+**just a guy who loves learning new tech and codes casually every day. confident in adapting to any stack, and always eager to build solutions people genuinely enjoy using.**
 
 currently working on:
 - **DevOps**
