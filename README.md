@@ -1,9 +1,9 @@
-***Hey, I'm Sreecharan** **·** AKA Sr3x0r*
+***Hey, I'm Sreecharan*** 
 
 ---
 
-🌱 *just a guy who loves learning new tech and codes casually every day.*  
-🌱 *I'm confident in adapting to any stack, and always eager to build solutions people genuinely enjoy using.*
+*just a guy who loves learning new tech and codes casually every day.*  
+*i'm confident in adapting to any stack, and always eager to build solutions people genuinely enjoy using.*
 
 *currently working on:*  
 - *DevOps*
