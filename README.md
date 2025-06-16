@@ -1,4 +1,4 @@
-***Hey, I'm Sreecharan*** 
+**Hey, I'm Sreecharan** 
 
 ---
 
