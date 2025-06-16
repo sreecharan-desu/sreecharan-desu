@@ -8,4 +8,4 @@
 *currently working on:*  
 - *DevOps*
 
-*explore my work* - https://sr3x0r.vercel.app
+*explore my work* - sreecharandesu.in
