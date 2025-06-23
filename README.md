@@ -1,9 +1,7 @@
-***Hey, I'm Sreecharan***
----
+**just a guy who loves learning new tech and codes casually every day.**
 
-*just a guy who loves learning new tech and codes casually every day.*  
+i'm currently working on ~
 
-*currently working on:*  
-- *DevOps & System Design*
+- 🌱 devops & system design : deep diving into ci/cd, containers, infra & architecture
 
-website → [sreecharandesu.in](https://sreecharandesu.in)
+my website — [sreecharandesu.in](https://sreecharandesu.in)
