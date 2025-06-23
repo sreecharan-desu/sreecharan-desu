@@ -3,9 +3,8 @@
 ---
 
 *just a guy who loves learning new tech and codes casually every day.*  
-*i'm confident in adapting to any stack, and always eager to build solutions people genuinely enjoy using.*
 
 *currently working on:*  
-- *DevOps*
+- *DevOps & System design*
 
-*explore my work* - https://sreecharandesu.in
+*view my work* - https://sreecharandesu.in
