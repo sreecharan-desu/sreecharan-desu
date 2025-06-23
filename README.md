@@ -1,10 +1,9 @@
-**Hey, I'm Sreecharan** 
-
+***Hey, I'm Sreecharan***
 ---
 
 *just a guy who loves learning new tech and codes casually every day.*  
 
 *currently working on:*  
-- *DevOps & System design*
+- *DevOps & System Design*
 
-*view my work* - https://sreecharandesu.in
+website → [sreecharandesu.in](https://sreecharandesu.in)
