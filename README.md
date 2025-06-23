@@ -1,4 +1,4 @@
-**just a guy who loves learning new tech and codes casually every day.**
+**Just a guy who loves learning new tech and codes casually every day.**
 
 i'm currently working on ~
 
