@@ -2,7 +2,7 @@
 
 i'm currently working on ~
 
-- 🌱 devops & system design : deep diving into infra & architecture
+🌱 devops & system design : deep diving into infra & architecture
 
 my website — [sreecharandesu.in](https://sreecharandesu.in)
 
