@@ -2,7 +2,7 @@
 
 i'm currently working on ~
 
-🌱 machine-learning & devOps
+🌱 CS core
 
 my website — [sreecharandesu.in](https://sreecharandesu.in)
 
