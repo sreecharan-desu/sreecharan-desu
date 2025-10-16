@@ -1,14 +1,12 @@
-
-
 **Just a guy who loves math,cs and learning new things — codes casually every day.**
 
-i'm currently working on \~
+i am currently working on ~
 
-🌱 CS core and problem-solving
+- 🌱 cs core : gaining sound knowledge in all my core subjects
+- 🌱 computational systems : designing and scaling modern systems
 
-website — [sreecharandesu.in](https://sreecharandesu.in)
+[sreecharandesu.in](https://sreecharandesu.in) — your next stop for math, CS & code
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sreecharan-desu.sreecharan-desu" alt="Visitor count badge" />
-</p>
-
+</p> -->
