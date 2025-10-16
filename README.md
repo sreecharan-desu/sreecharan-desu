@@ -4,7 +4,7 @@
 
 i'm currently working on \~
 
-🌱 CS core concepts and problem-solving
+🌱 CS core and problem-solving
 
 website — [sreecharandesu.in](https://sreecharandesu.in)
 
