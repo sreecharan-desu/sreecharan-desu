@@ -2,7 +2,7 @@
 
 i am currently working on ~
 
-- 🌱 cs core : gaining sound knowledge in all my core subjects
+- 🌱 cs core : gaining decent knowledge in all my core subjects
 
 visit -  <a href="https://sreecharandesu.in" target="_blank" style="text-decoration: none;">sreecharandesu.in</a>
 
