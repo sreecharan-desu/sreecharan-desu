@@ -3,6 +3,8 @@
 i am currently working on ~
 
 - 🌱 cs core : gaining decent knowledge in all my core subjects
+- 🌱 quantum computing : spending decent chunk of time here, exploring emerging field of science
+
 
 visit -  <a href="https://sreecharandesu.in" target="_blank" style="text-decoration: none;">sreecharandesu.in</a>
 
