@@ -2,11 +2,17 @@
 
 i am currently working on ~
 
+
+- something secret 👀
+
+
+<!--
 - 🌱 cs core : gaining decent knowledge in all my core subjects
 - 🌱 quantum computing : spending decent chunk of time here, exploring emerging field of science
+-->
 
 
-visit -  <a href="https://sreecharandesu.in" target="_blank" style="text-decoration: none;">sreecharandesu.in</a>
+also visit -  <a href="https://sreecharandesu.in" target="_blank" style="text-decoration: none;">sreecharandesu.in</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sreecharan-desu&style=flat&color=blue&base=2753" alt="Profile views" />
