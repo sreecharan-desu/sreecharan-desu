@@ -1,26 +1,13 @@
-**Just a guy who loves math,cs and learning new things — codes casually every day.**
+building products, contributing to open source, and learning every day.
 
-i am currently working on ~
+- 🌱 currently building **<a href="https://getpgn.in" style="text-decoration:none;">getpgn.in</a>** - turning handwritten chess scoresheets into PGNs with AI.
 
+- 🌱 recently contributed to **<a href="https://github.com/mozilla/fxa/pulls?q=is%3Apr+author%3Asreecharan-desu" style="text-decoration:none;">Mozilla</a>**, **<a href="https://github.com/calcom/cal.diy/pulls?q=is%3Apr+author%3Asreecharan-desu" style="text-decoration:none;">Cal.DIY</a>**, and **<a href="https://github.com/OpenSRE-Foundation/OpenSRE/pulls?q=is%3Apr+author%3Asreecharan-desu" style="text-decoration:none;">OpenSRE</a>**.
 
-- getpgn.in
+- 🌱 interested in backend systems, distributed infrastructure, AI, and open source.
 
-
-<!--
-- 🌱 cs core : gaining decent knowledge in all my core subjects
-- 🌱 quantum computing : spending decent chunk of time here, exploring emerging field of science
--->
-
-
-also visit -  <a href="https://sreecharandesu.in" target="_blank" style="text-decoration: none;">sreecharandesu.in</a>
+visit  **<a href="https://sreecharandesu.in" style="text-decoration:none;">sreecharandesu.in</a>**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreecharan-desu&style=flat&color=blue&base=2753" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sreecharan-desu&style=flat-square" alt="Profile views" />
 </p>
-
-
-<!-- <p align="center">
-- 🌱 computational systems : designing and scaling modern systems
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sreecharan-desu.sreecharan-desu" alt="Visitor count badge" />
-</p> -->
