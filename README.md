@@ -9,5 +9,5 @@ building products, contributing to open source, and learning every day.
 visit **<a href="https://sreecharandesu.in" style="text-decoration:none;">sreecharandesu.in</a>**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreecharan-desu&style=flat-square&color=blue&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Profile%20views-1%2C558%2B-blue?style=flat-square" alt="Profile views" />
 </p>
