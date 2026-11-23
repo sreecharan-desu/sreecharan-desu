@@ -1,9 +1,5 @@
-sreecharan. forward deployed engineer at [manuscripts](https://manuscripts.co.in). cse '27, rgukt. building [yuzu](https://yuzu-blush.vercel.app).
+sreecharan. forward deployed engineer intern at [manuscripts](https://manuscripts.co.in). cse '27, rgukt.
 
-previously built [abcchess.org](https://abcchess.org) at ABC Chess LLP. merged prs in [mozilla/fxa](https://github.com/mozilla/fxa/pulls?q=is%3Apr+is%3Amerged+author%3Asreecharan-desu), [cal.diy](https://github.com/calcom/cal.diy/pulls?q=is%3Apr+is%3Amerged+author%3Asreecharan-desu) and [opensre](https://github.com/Tracer-Cloud/opensre/pulls?q=is%3Apr+is%3Amerged+author%3Asreecharan-desu).
+built [uniz](https://uniz.rguktong.in) (1,500+ students at rgukt ongole) and [abcchess.org](https://abcchess.org) (500+ players). 12 merged prs across [mozilla/fxa](https://github.com/mozilla/fxa/pulls?q=is%3Apr+is%3Amerged+author%3Asreecharan-desu), [apache airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+is%3Amerged+author%3Asreecharan-desu), [cal.com](https://github.com/calcom/cal.diy/pulls?q=is%3Apr+is%3Amerged+author%3Asreecharan-desu), [brave](https://github.com/brave/brave-search-mcp-server/pulls?q=is%3Apr+is%3Amerged+author%3Asreecharan-desu) and [oppia](https://github.com/oppia/oppia/pulls?q=is%3Apr+is%3Amerged+author%3Asreecharan-desu).
 
-[sreecharandesu.in](https://sreecharandesu.in) · [sponsor](https://github.com/sponsors/sreecharan-desu)
-
-<p align="center">
-  <img src="https://hits.sh/github.com/sreecharan-desu.svg?extraCount=1558&style=flat-square&label=Profile%20views" alt="Profile views" />
-</p>
+[sreecharandesu.in](https://sreecharandesu.in)
